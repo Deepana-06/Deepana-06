@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Cloud based projects.**
 
-- 👨‍💻 All of my projects are available at [https://2005deepana.wixsite.com/deepana-d-4-new/education](https://2005deepana.wixsite.com/deepana-d-4-new/education)
+- 👨‍💻 All of my projects are available at https://my-portfolio-25-1u1tvdg0b-deepana-ds-projects.vercel.app/
 
 - 💬 Ask me about **IBM SPSS Modeler,data visualization tools, Data Science and ML Algorithms.**
 
